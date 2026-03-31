@@ -61,12 +61,6 @@ Analizar el comportamiento del mercado de videojuegos para:
 
 ---
 
-## 📸 Ejemplos de visualización
-
-*(Aquí puedes agregar imágenes de tus gráficas)*
-
----
-
 ## 🚀 Conclusión
 
 El análisis permitió comprender mejor los factores que influyen en el éxito de un videojuego, proporcionando información útil para la toma de decisiones estratégicas en la industria.
@@ -85,4 +79,4 @@ El análisis permitió comprender mejor los factores que influyen en el éxito d
 Analista de Datos Jr  
 
 - GitHub: https://github.com/diegoverclock  
-- LinkedIn: (agrega tu link)
+- LinkedIn: https://www.linkedin.com/in/diego-morales-salazar
